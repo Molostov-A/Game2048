@@ -1,6 +1,5 @@
 # 2048WinFormsApp
 ## Project Description
-Software Product Store solution with some included Onion architecture-related projects : Web Application, Services, Data, Business, Domain
 Game 2084
 - The project was created on the windows forms platform.
 - Executed in compliance with the principles of OOP.
