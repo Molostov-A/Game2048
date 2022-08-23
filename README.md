@@ -9,4 +9,7 @@ Game 2084
 - Проект создан, на платформе windows forms. 
 - Выполнен с соблюдением принципов ООП. 
 - Для сохранения результатов используется формат json.
-<img src="https://github.com/Molostov-A/Game2048/blob/master/screenshots/Game2048Preview.gif" alt="screenshot" width="800">
+
+<img src="https://github.com/Molostov-A/Game2048/blob/master/screenshots/Game2048Preview.gif" alt="screenshot" width=80%>
+
+
