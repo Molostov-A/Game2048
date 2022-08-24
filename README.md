@@ -10,6 +10,6 @@ Game 2084
 - Выполнен с соблюдением принципов ООП. 
 - Для сохранения результатов используется формат json.
 
-<img src="https://github.com/Molostov-A/Game2048/blob/master/screenshots/Game2048Preview.gif" alt="screenshot" width=80%>
+<p><img src="https://github.com/Molostov-A/Game2048/blob/master/screenshots/Game2048Preview.gif" alt="screenshot" width=70%></p>
 
 
